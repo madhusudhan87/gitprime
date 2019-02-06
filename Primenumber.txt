@@ -4,7 +4,7 @@ public static void main(String[] args)
 {
 int temp=0;
 
-System.out.println(ënter your number");
+System.out.println(ënter your first number");
 System.out.println("this is commit2");
 int num=s.nextInt();
 for(int i=2;i<=num-1;i++)
