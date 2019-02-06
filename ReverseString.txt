@@ -2,7 +2,7 @@ public class ReverseStringDemo1
 {
    public static void main (String[] args)
    {		
-String reverse="hii this reverse of string";
+String reverse="malayalam";
        
 for(int i=str.length()-1;i>=0;i--){
 reverse=reverse+str.charAt(i);
